@@ -1,0 +1,53 @@
+{
+  "/Users/jonathan.zhou/Projects/edu/force-app": {
+    "sourcePath": "/Users/jonathan.zhou/Projects/edu/force-app",
+    "isDirectory": true,
+    "size": 96,
+    "modifiedTime": 1633363035068,
+    "changeTime": 1633363035068,
+    "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+    "state": "n",
+    "isArtifactRoot": true,
+    "package": "force-app"
+  },
+  "/Users/jonathan.zhou/Projects/edu/force-app/main": {
+    "sourcePath": "/Users/jonathan.zhou/Projects/edu/force-app/main",
+    "isDirectory": true,
+    "size": 96,
+    "modifiedTime": 1633363035068,
+    "changeTime": 1633363035068,
+    "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+    "state": "n",
+    "package": "force-app"
+  },
+  "/Users/jonathan.zhou/Projects/edu/force-app/main/default": {
+    "sourcePath": "/Users/jonathan.zhou/Projects/edu/force-app/main/default",
+    "isDirectory": true,
+    "size": 96,
+    "modifiedTime": 1633363035068,
+    "changeTime": 1633363035068,
+    "contentHash": "829e3cbe114692d1a8542419a3a8e09849d49353",
+    "state": "n",
+    "package": "force-app"
+  },
+  "/Users/jonathan.zhou/Projects/edu/force-app/main/default/lwc": {
+    "sourcePath": "/Users/jonathan.zhou/Projects/edu/force-app/main/default/lwc",
+    "isDirectory": true,
+    "size": 96,
+    "modifiedTime": 1633363035068,
+    "changeTime": 1633363035068,
+    "contentHash": "56f2d335ffa27c20b4ea310cf0214fa96f325894",
+    "state": "n",
+    "package": "force-app"
+  },
+  "/Users/jonathan.zhou/Projects/edu": {
+    "sourcePath": "/Users/jonathan.zhou/Projects/edu",
+    "isDirectory": true,
+    "size": 352,
+    "modifiedTime": 1633363035068,
+    "changeTime": 1633363035068,
+    "contentHash": "dcbb78d7f3cf6d3e7e5327d4386ebcfe17afbabb",
+    "state": "n",
+    "isWorkspace": true
+  }
+}

@@ -1,16 +1,17 @@
 {
   "orgName": "Salesforce.org Hands-On Training",
+  "edition": "Enterprise",
   "adminEmail": "cxorg+edu@salesforce.com",
   "description": "SFDO Week of Learning",
-  "template": "0TT5f000002fThB",
+  "features": ["EnableSetPasswordInApi", "RecordTypes", "Sites"],
+  "objectSettings": {
+    "account": {
+         "defaultRecordType": "default"
+    }
+  },
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
-    },
-    "securitySettings": {
-      "passwordPolicies": {
-        "enableSetPasswordInApi": true
-      }
     }
   }
 }

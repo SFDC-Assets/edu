@@ -1,0 +1,347 @@
+{
+  "serverMaxRevisionCounter": 313,
+  "sourceMembers": {
+    "CustomField__Contact.Primary_Academic_Program__c": {
+      "serverRevisionCounter": 207,
+      "lastRetrievedFromServer": 207,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Contact.Primary_Department__c": {
+      "serverRevisionCounter": 209,
+      "lastRetrievedFromServer": 209,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Contact.Primary_Educational_Institution__c": {
+      "serverRevisionCounter": 211,
+      "lastRetrievedFromServer": 211,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__Contact.Primary_Sports_Organization__c": {
+      "serverRevisionCounter": 213,
+      "lastRetrievedFromServer": 213,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "CustomField__hed__Facility__c.Display_Name__c": {
+      "serverRevisionCounter": 295,
+      "lastRetrievedFromServer": 295,
+      "memberType": "CustomField",
+      "isNameObsolete": false
+    },
+    "RecordType__Account.Academic_Program": {
+      "serverRevisionCounter": 128,
+      "lastRetrievedFromServer": 128,
+      "memberType": "RecordType",
+      "isNameObsolete": false
+    },
+    "RecordType__Account.Administrative": {
+      "serverRevisionCounter": 129,
+      "lastRetrievedFromServer": 129,
+      "memberType": "RecordType",
+      "isNameObsolete": false
+    },
+    "RecordType__Account.Business_Organization": {
+      "serverRevisionCounter": 130,
+      "lastRetrievedFromServer": 130,
+      "memberType": "RecordType",
+      "isNameObsolete": false
+    },
+    "RecordType__Account.Educational_Institution": {
+      "serverRevisionCounter": 131,
+      "lastRetrievedFromServer": 131,
+      "memberType": "RecordType",
+      "isNameObsolete": false
+    },
+    "RecordType__Account.HH_Account": {
+      "serverRevisionCounter": 132,
+      "lastRetrievedFromServer": 132,
+      "memberType": "RecordType",
+      "isNameObsolete": false
+    },
+    "RecordType__Account.Sports_Organization": {
+      "serverRevisionCounter": 133,
+      "lastRetrievedFromServer": 133,
+      "memberType": "RecordType",
+      "isNameObsolete": false
+    },
+    "RecordType__Account.University_Department": {
+      "serverRevisionCounter": 134,
+      "lastRetrievedFromServer": 134,
+      "memberType": "RecordType",
+      "isNameObsolete": false
+    },
+    "RecordType__Case.Incident": {
+      "serverRevisionCounter": 226,
+      "lastRetrievedFromServer": 226,
+      "memberType": "RecordType",
+      "isNameObsolete": false
+    },
+    "RecordType__hed__Course_Enrollment__c.Default": {
+      "serverRevisionCounter": 281,
+      "lastRetrievedFromServer": 281,
+      "memberType": "RecordType",
+      "isNameObsolete": false
+    },
+    "RecordType__hed__Course_Enrollment__c.Faculty": {
+      "serverRevisionCounter": 282,
+      "lastRetrievedFromServer": 282,
+      "memberType": "RecordType",
+      "isNameObsolete": false
+    },
+    "RecordType__hed__Course_Enrollment__c.Student": {
+      "serverRevisionCounter": 283,
+      "lastRetrievedFromServer": 283,
+      "memberType": "RecordType",
+      "isNameObsolete": false
+    },
+    "BusinessProcess__Case.Behavior Management": {
+      "serverRevisionCounter": 225,
+      "lastRetrievedFromServer": 225,
+      "memberType": "BusinessProcess",
+      "isNameObsolete": false
+    },
+    "CustomObjectTranslation__hed__Course_Enrollment__c-ca": {
+      "serverRevisionCounter": 232,
+      "lastRetrievedFromServer": 232,
+      "memberType": "CustomObjectTranslation",
+      "isNameObsolete": false
+    },
+    "CustomObjectTranslation__hed__Course_Enrollment__c-de": {
+      "serverRevisionCounter": 238,
+      "lastRetrievedFromServer": 238,
+      "memberType": "CustomObjectTranslation",
+      "isNameObsolete": false
+    },
+    "CustomObjectTranslation__hed__Course_Enrollment__c-en_GB": {
+      "serverRevisionCounter": 244,
+      "lastRetrievedFromServer": 244,
+      "memberType": "CustomObjectTranslation",
+      "isNameObsolete": false
+    },
+    "CustomObjectTranslation__hed__Course_Enrollment__c-es": {
+      "serverRevisionCounter": 250,
+      "lastRetrievedFromServer": 250,
+      "memberType": "CustomObjectTranslation",
+      "isNameObsolete": false
+    },
+    "CustomObjectTranslation__hed__Course_Enrollment__c-es_MX": {
+      "serverRevisionCounter": 256,
+      "lastRetrievedFromServer": 256,
+      "memberType": "CustomObjectTranslation",
+      "isNameObsolete": false
+    },
+    "CustomObjectTranslation__hed__Course_Enrollment__c-fi": {
+      "serverRevisionCounter": 262,
+      "lastRetrievedFromServer": 262,
+      "memberType": "CustomObjectTranslation",
+      "isNameObsolete": false
+    },
+    "CustomObjectTranslation__hed__Course_Enrollment__c-fr": {
+      "serverRevisionCounter": 268,
+      "lastRetrievedFromServer": 268,
+      "memberType": "CustomObjectTranslation",
+      "isNameObsolete": false
+    },
+    "CustomObjectTranslation__hed__Course_Enrollment__c-ja": {
+      "serverRevisionCounter": 274,
+      "lastRetrievedFromServer": 274,
+      "memberType": "CustomObjectTranslation",
+      "isNameObsolete": false
+    },
+    "CustomObjectTranslation__hed__Course_Enrollment__c-nl_NL": {
+      "serverRevisionCounter": 280,
+      "lastRetrievedFromServer": 280,
+      "memberType": "CustomObjectTranslation",
+      "isNameObsolete": false
+    },
+    "CustomObjectTranslation__hed__Facility__c-ca": {
+      "serverRevisionCounter": 286,
+      "lastRetrievedFromServer": 286,
+      "memberType": "CustomObjectTranslation",
+      "isNameObsolete": false
+    },
+    "CustomObjectTranslation__hed__Facility__c-en_GB": {
+      "serverRevisionCounter": 288,
+      "lastRetrievedFromServer": 288,
+      "memberType": "CustomObjectTranslation",
+      "isNameObsolete": false
+    },
+    "CustomObjectTranslation__hed__Facility__c-es": {
+      "serverRevisionCounter": 290,
+      "lastRetrievedFromServer": 290,
+      "memberType": "CustomObjectTranslation",
+      "isNameObsolete": false
+    },
+    "CustomObjectTranslation__hed__Facility__c-es_MX": {
+      "serverRevisionCounter": 292,
+      "lastRetrievedFromServer": 292,
+      "memberType": "CustomObjectTranslation",
+      "isNameObsolete": false
+    },
+    "CustomObjectTranslation__hed__Facility__c-fr": {
+      "serverRevisionCounter": 294,
+      "lastRetrievedFromServer": 294,
+      "memberType": "CustomObjectTranslation",
+      "isNameObsolete": false
+    },
+    "CustomApplication__Education_Data_Architecture": {
+      "serverRevisionCounter": 284,
+      "lastRetrievedFromServer": 284,
+      "memberType": "CustomApplication",
+      "isNameObsolete": false
+    },
+    "PermissionSet__edu_user": {
+      "serverRevisionCounter": 313,
+      "lastRetrievedFromServer": 313,
+      "memberType": "PermissionSet",
+      "isNameObsolete": false
+    },
+    "CustomObjectTranslation__Account-ca": {
+      "serverRevisionCounter": 15,
+      "lastRetrievedFromServer": 15,
+      "memberType": "CustomObjectTranslation",
+      "isNameObsolete": false
+    },
+    "CustomObjectTranslation__Account-de": {
+      "serverRevisionCounter": 29,
+      "lastRetrievedFromServer": 29,
+      "memberType": "CustomObjectTranslation",
+      "isNameObsolete": false
+    },
+    "CustomObjectTranslation__Account-en_GB": {
+      "serverRevisionCounter": 43,
+      "lastRetrievedFromServer": 43,
+      "memberType": "CustomObjectTranslation",
+      "isNameObsolete": false
+    },
+    "CustomObjectTranslation__Account-es": {
+      "serverRevisionCounter": 57,
+      "lastRetrievedFromServer": 57,
+      "memberType": "CustomObjectTranslation",
+      "isNameObsolete": false
+    },
+    "CustomObjectTranslation__Account-es_MX": {
+      "serverRevisionCounter": 71,
+      "lastRetrievedFromServer": 71,
+      "memberType": "CustomObjectTranslation",
+      "isNameObsolete": false
+    },
+    "CustomObjectTranslation__Account-fi": {
+      "serverRevisionCounter": 85,
+      "lastRetrievedFromServer": 85,
+      "memberType": "CustomObjectTranslation",
+      "isNameObsolete": false
+    },
+    "CustomObjectTranslation__Account-fr": {
+      "serverRevisionCounter": 99,
+      "lastRetrievedFromServer": 99,
+      "memberType": "CustomObjectTranslation",
+      "isNameObsolete": false
+    },
+    "CustomObjectTranslation__Account-ja": {
+      "serverRevisionCounter": 113,
+      "lastRetrievedFromServer": 113,
+      "memberType": "CustomObjectTranslation",
+      "isNameObsolete": false
+    },
+    "CustomObjectTranslation__Account-nl_NL": {
+      "serverRevisionCounter": 127,
+      "lastRetrievedFromServer": 127,
+      "memberType": "CustomObjectTranslation",
+      "isNameObsolete": false
+    },
+    "CustomObjectTranslation__Case-ca": {
+      "serverRevisionCounter": 216,
+      "lastRetrievedFromServer": 216,
+      "memberType": "CustomObjectTranslation",
+      "isNameObsolete": false
+    },
+    "CustomObjectTranslation__Case-en_GB": {
+      "serverRevisionCounter": 218,
+      "lastRetrievedFromServer": 218,
+      "memberType": "CustomObjectTranslation",
+      "isNameObsolete": false
+    },
+    "CustomObjectTranslation__Case-es": {
+      "serverRevisionCounter": 220,
+      "lastRetrievedFromServer": 220,
+      "memberType": "CustomObjectTranslation",
+      "isNameObsolete": false
+    },
+    "CustomObjectTranslation__Case-es_MX": {
+      "serverRevisionCounter": 222,
+      "lastRetrievedFromServer": 222,
+      "memberType": "CustomObjectTranslation",
+      "isNameObsolete": false
+    },
+    "CustomObjectTranslation__Case-fr": {
+      "serverRevisionCounter": 224,
+      "lastRetrievedFromServer": 224,
+      "memberType": "CustomObjectTranslation",
+      "isNameObsolete": false
+    },
+    "CustomObject__Contact": {
+      "serverRevisionCounter": 214,
+      "lastRetrievedFromServer": 214,
+      "memberType": "CustomObject",
+      "isNameObsolete": false
+    },
+    "CustomObjectTranslation__Contact-ca": {
+      "serverRevisionCounter": 142,
+      "lastRetrievedFromServer": 142,
+      "memberType": "CustomObjectTranslation",
+      "isNameObsolete": false
+    },
+    "CustomObjectTranslation__Contact-de": {
+      "serverRevisionCounter": 150,
+      "lastRetrievedFromServer": 150,
+      "memberType": "CustomObjectTranslation",
+      "isNameObsolete": false
+    },
+    "CustomObjectTranslation__Contact-en_GB": {
+      "serverRevisionCounter": 158,
+      "lastRetrievedFromServer": 158,
+      "memberType": "CustomObjectTranslation",
+      "isNameObsolete": false
+    },
+    "CustomObjectTranslation__Contact-es": {
+      "serverRevisionCounter": 166,
+      "lastRetrievedFromServer": 166,
+      "memberType": "CustomObjectTranslation",
+      "isNameObsolete": false
+    },
+    "CustomObjectTranslation__Contact-es_MX": {
+      "serverRevisionCounter": 174,
+      "lastRetrievedFromServer": 174,
+      "memberType": "CustomObjectTranslation",
+      "isNameObsolete": false
+    },
+    "CustomObjectTranslation__Contact-fi": {
+      "serverRevisionCounter": 182,
+      "lastRetrievedFromServer": 182,
+      "memberType": "CustomObjectTranslation",
+      "isNameObsolete": false
+    },
+    "CustomObjectTranslation__Contact-fr": {
+      "serverRevisionCounter": 190,
+      "lastRetrievedFromServer": 190,
+      "memberType": "CustomObjectTranslation",
+      "isNameObsolete": false
+    },
+    "CustomObjectTranslation__Contact-ja": {
+      "serverRevisionCounter": 198,
+      "lastRetrievedFromServer": 198,
+      "memberType": "CustomObjectTranslation",
+      "isNameObsolete": false
+    },
+    "CustomObjectTranslation__Contact-nl_NL": {
+      "serverRevisionCounter": 206,
+      "lastRetrievedFromServer": 206,
+      "memberType": "CustomObjectTranslation",
+      "isNameObsolete": false
+    }
+  }
+}
