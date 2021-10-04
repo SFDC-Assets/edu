@@ -9,4 +9,5 @@ sfdx force:mdapi:deploy -d unpackaged/post/facility_display_name -w 10
 sfdx force:source:push
 sfdx force:user:permset:assign -n edu_user
 sfdx shane:user:password:set -g User -l User -p salesforce1
+sfdx automig:load -d data
 sfdx force:org:open -p /lightning/page/home

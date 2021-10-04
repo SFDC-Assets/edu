@@ -1115,4 +1115,8 @@
         <tab>hed__Trigger_Handler__c</tab>
         <visibility>Visible</visibility>
     </tabSettings>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>AccessContentBuilder</name>
+    </userPermissions>
 </PermissionSet>
